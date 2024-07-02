@@ -43,7 +43,7 @@ A well-renowned company wants to make Art & Craft website for their business. Th
 - **🔍 Additional Sections:** Two more relevant sections to highlight key aspects of the company
 
 ## 🔗 Navbar
-- **🖼️ Logo:** ![Company logo](https://i.ibb.co/Y7wBDqY/Work-Track-2-removebg-preview.png)
+
 - **🔄 Conditional Items:** Register, Login (if not logged in); User Photo and Logout (if logged in)
 - **📂 Navigation Items:** Dashboard (Private), Contact Us (Public)
 
