@@ -1,7 +1,7 @@
-# 🚀 Employee Management System  name:  WorkTrack
+# 🚀 A Website for buying and sell art products:  SAM&CRAFT
 
 ## 📝 Overview
-A well-renowned company wants to make Art & Craft website for their business. They want to sell and buy art product 
+A well-renowned company wants to make an Art & Craft website for their business. They want to sell and buy art products 
 
 ## 🌟 Key Features
 
@@ -27,7 +27,7 @@ A well-renowned company wants to make Art & Craft website for their business. Th
    - No default browser alerts
 
 7. **🔐 Private Routes:**
-   - Implemented with seamless access after reloading, avoiding redirection to the login page
+   - Implemented seamless access after reloading, avoiding redirection to the login page
 
 
 
